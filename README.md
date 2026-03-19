@@ -1,3 +1,13 @@
+## Documentação do Exercício
+
+Clique no botão abaixo para visualizar a lógica e as instruções fornecidas pela Profa. Ana Leda:
+
+<p align="left">
+  <a href="https://github.com/LucasProenk/Sistema-Escolar-SQL/blob/main/Exercicio-BD-SQL.png">
+    <img src="https://img.shields.io/badge/-%20VER%20LÓGICA-333333?style=for-the-badge&logo=eye&logoColor=white" alt="Botão Ver Lógica">
+  </a>
+</p>
+
 # Sistema de Gestão de Cursos de Informática
 
 Este repositório contém a modelagem e implementação do banco de dados para o controle interno de uma escola municipal de informática. O projeto foi desenvolvido como parte da disciplina de **Banco de Dados**, sob orientação da **Profa. Ana Leda**.
